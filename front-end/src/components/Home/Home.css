@@ -1,0 +1,14 @@
+.Home {
+    display: flex;
+    flex-direction: column;
+    align-content: center;
+    padding-top: 10%;
+}
+.Home img {
+    max-width: 270px;
+    max-height: 270px;
+    margin: 0 auto;
+}
+.Home img:nth-child(2) {
+    margin-top: 30px;
+}
